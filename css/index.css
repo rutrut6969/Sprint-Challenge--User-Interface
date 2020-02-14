@@ -399,6 +399,7 @@ p {
 
 .about-content1 .about-btn {
     background-color: white;
+    cursor: pointer;
     margin-bottom: 3%;
     margin-top: 3%;
     border: 1px solid black;
