@@ -43,11 +43,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What are the 4 areas of the box model?
 
-    The different areas of the box-model are:
+    `The different areas of the box-model are:
         1) Margin - Being the outermost part of the box model
         2) Border - Being the middle between the 1st and third layers
         3) Padding - Being the inner area under border
-        4) Content - Being the inner most area of the box-model
+        4) Content - Being the inner most area of the box-model`
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
